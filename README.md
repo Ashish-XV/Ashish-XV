@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **Power BI,Python, Web scraping, Data visualization and probably how to mix and master tracks.**
+- 💬 Ask me about **Power BI, Python, Web scraping, Data visualization and probably how to mix and master tracks.**
 
 - 📫 How to reach me **ashish13az@gmail.com**
 
