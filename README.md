@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **ESports dashboard for Tekken 8**
 
-- 🌱 I’m currently learning **Frameworks**
-
 - 💬 Ask me about **Power BI, Python, Web scraping, Data visualization and probably how to mix and master tracks.**
+
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **ashish13az@gmail.com**
 
