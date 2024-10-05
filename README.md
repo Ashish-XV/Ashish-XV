@@ -1,4 +1,4 @@
-<h1 align="center">😎Hey, nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <h3 align="center">Hi, I am Ashish and welcome to my GitHub profile! I'm a passionate Data Analyst with expertise in Power BI, Python, SQL, and Excel. I love transforming raw data into actionable insights and creating compelling visualizations.</h3>
 
 - 🔭 I’m currently working on **ESports dashboard for Tekken 8**
@@ -10,6 +10,7 @@
 - 📫 How to reach me **ashish13az@gmail.com**
 
 - ⚡ Fun fact **in my free time, I produce music and do boxing.**
+
 
 
 ###
@@ -27,24 +28,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ableton" height="30" alt="abletonlive logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611xqvz624twlc9528g4uy8tmqc1w55mbf4608ay6ts&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611w1a9j58v00nm5amenvgo2ymqilqobwofbsfw1smr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611w1a9j58v00nm5amenvgo2ymqilqobwofbsfw1smr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611xqvz624twlc9528g4uy8tmqc1w55mbf4608ay6ts&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -57,8 +62,6 @@
 ###
 
 <br clear="both">
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -79,6 +82,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ashish-XV&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-XV&theme=merko&custom_title=Contribution%20Graph&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
+
