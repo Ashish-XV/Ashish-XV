@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <h3 align="center">Hi, I am Ashish and welcome to my GitHub profile! I'm a passionate Data Analyst with expertise in Power BI, Python, SQL, and Excel. I love transforming raw data into actionable insights and creating compelling visualizations.</h3>
 
